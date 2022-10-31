@@ -64,7 +64,6 @@ export default {
       content: [],
     };
   },
-  mounted() {},
   methods: {
     editClient(clientData) {
       this.$vbsModal.open({
